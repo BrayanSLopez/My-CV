@@ -1,2 +1,6 @@
 # My-CV
-Repositorio creado con el fin de compartir la creación de mi cv usando html y css.
+
+Bienvenido a mi CV, aqui podras encontrar mi CV en formato pdf y tambien la estructura del mismo creado en html y css.
+
+
+[CV Brayan Steven Lopez.pdf](https://github.com/user-attachments/files/18857658/CV.Brayan.Steven.Lopez.pdf)
