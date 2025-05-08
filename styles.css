@@ -52,9 +52,9 @@ h2 {
 .container-columnas {
     display: flex;
     justify-content: space-between;
-    margin-top: 20px;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .columnas {
@@ -68,7 +68,7 @@ h3 {
     border-bottom: 2px solid #333;
     display: inline-block;
     padding-bottom: 5px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
 ul {
@@ -79,7 +79,7 @@ ul {
 ul li {
     background: #e4e4e4;
     margin: 5px 0;
-    padding: 10px;
+    padding: 6px;
     border-radius: 5px;
 }
 
